@@ -1,0 +1,38 @@
+ p{
+    margin-top: 0;
+    margin-bottom: 0;
+    
+ }
+
+body{
+    background-color: #D5E1EF;
+ }
+
+ img{
+    width: 100%;
+    border-radius: 25px;
+    height: 288px;
+ }
+
+ div{
+  background-color: white;
+  width: 320px;
+  border-radius: 20px;
+  padding: 16px;
+ }
+
+ .text{
+    font-size: 22px;
+    color: #1F314F;
+    text-align: center;
+    font-weight: 700;
+    margin-top:24px ;
+ }
+
+ .text2{
+    color: #7D889E;
+    font-size: 15px;
+    text-align: center;
+    margin-top:16px ;
+    font-weight:400 ;
+ }
